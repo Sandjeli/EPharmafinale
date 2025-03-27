@@ -1,7 +1,14 @@
-<link rel="icon" href="img universelle/Logo du site.png">
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <link rel="icon" href="img universelle/Logo du site.png">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ReadMe</title>
+</head>
+ <body>
 # EPharmafinale
-Salut yalety j'espère que tu vas bien, ceci est ton lien personnel pour que tu puisse surveiller le projet. ne le partage à personne.
-pour voir un aperçu de notre pharmacie en ligne, appui sur le boutton orange en bas de cette page.
+Salut Yalety, j'espère que tu vas bien, ceci est ton lien personnel pour que tu puisses surveiller le projet. Ne le partage à personne. Pour voir un aperçu de notre pharmacie en ligne, appuie sur le bouton orange en bas de cette page.
 
 <h1>I.pharmacie en ligne differentes pages</h1>
 
@@ -80,3 +87,5 @@ Pour rassurer sur la protection des données.
 <h1>III.Aperçu des différentes pages</h1>
 
 <button style="background:yellow;"><a href="Acceuil/index.html">Visiter le site maintenant</a></button>
+</body>
+</html>

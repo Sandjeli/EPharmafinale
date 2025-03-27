@@ -1,0 +1,19 @@
+#logo{
+    width: 50px;
+    border:2px greenyellow solid;
+    border-radius: 30px;
+}
+.prix{
+    color:rgb(27, 215, 240);
+    font-weight: bold;
+}
+.prix{
+    font-weight: bold;
+    color: green;
+}
+footer{
+    background: grey;
+    padding: 40px;
+    text-align: center;
+    font-weight: bold;
+}

@@ -73,7 +73,7 @@ Détails, posologie, etc.
  Simple, avec plusieurs options.
 <h3>b)Icônes de sécurité</h3>
 Pour rassurer sur la protection des données.
-
+<br>
 <b>Je t'ai probablement envoyé un PDF avec cette présentation. Moi, je m'occuperai du Front-end et et des applications éventuelles de JavaScript. Le type dont je t'ai parlé s'occupera du backend, c'est-à-dire la base de données et toutes ses applications. le projet avance lentement mais sûrement</b>
 
 <h1>III.Aperçu des différentes pages</h1>

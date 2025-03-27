@@ -1,0 +1,53 @@
+#offres{
+    font-weight: bolder;
+    font-size: larger;
+    text-align: center;
+    color: antiquewhite;
+    background: blue;
+    padding: 10px;
+}
+
+#logo{
+    width: 50px;
+    border:2px greenyellow solid;
+    border-radius: 30px;
+}
+#carte{
+    display: flex;
+    flex-direction: row;
+}
+#titlecard{
+    padding: 10px;
+    margin:10px 0px;
+    text-align: center;
+    background: linear-gradient(to right, green, greenyellow);
+}
+#boxeproduitphare{
+    border:5px blue solid;
+}
+.prix{
+    color:rgb(27, 215, 240);
+    font-weight: bold;
+}
+.card{
+    margin:10px;
+    padding:10px;
+}
+.rounded{
+    padding: 5px;
+}
+.imgcorps{
+    width: 100%;
+}
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+span{
+    margin:30px 0px 30px 10px;
+}
+footer{
+    background: grey;
+    padding: 40px;
+    text-align: center;
+    font-weight: bold;
+}

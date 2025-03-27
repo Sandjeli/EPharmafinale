@@ -1,0 +1,19 @@
+#logo{
+    width: 50px;
+    border:2px greenyellow solid;
+    border-radius: 30px;
+}
+.box{
+    margin: 5px;
+}
+.card-header{
+    font-weight: bold;
+    text-align: left;
+}
+
+footer{
+    background: grey;
+    padding: 40px;
+    text-align: center;
+    font-weight: bold;
+}

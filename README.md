@@ -1,3 +1,4 @@
+<link rel="icon" href="img universelle/Logo du site.png">
 # EPharmafinale
 Salut yalety j'espère que tu vas bien, ceci est ton lien personnel pour que tu puisse surveiller le projet. ne le partage à personne.
 pour voir un aperçu de notre pharmacie en ligne, appui sur le boutton orange en bas de cette page.
